@@ -4,7 +4,7 @@ Template para empezar a realizar un trabajo con informe que requiera de procesam
 
 ## Capturas
 
-![Example screenshot](./captura_de_pantalla.png)
+![Estructura del proyecto](./captura_de_pantalla.png)
 
 ## Tabla de Contenido
 
