@@ -50,7 +50,7 @@ sh compile.sh
 
 ## TODOs
 
-- [ ] .
+- [ ] Ver cómo se puede implementar referencias a código sin tener que escribir todo el código en LaTex.
 
 ## Autor
 
