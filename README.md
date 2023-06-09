@@ -52,6 +52,7 @@ sh compile.sh
 
 - [ ] Ver cómo se puede implementar referencias a código sin tener que escribir todo el código en LaTex.
 - [ ] Nomenclatura para las referencias (sin ':' porque no hace completado de la palabra completa) ej: fig_myFigure, bib_myBibliography.
+- [ ] Por alguna razon cuando corro compile.sh no se muestra en la consola la salida de main.m.
 
 ## Autor
 
